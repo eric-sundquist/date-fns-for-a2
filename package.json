@@ -42,7 +42,6 @@
     "> 1%",
     "IE 11"
   ],
-  "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.13.10",
     "@babel/core": "^7.13.10",
